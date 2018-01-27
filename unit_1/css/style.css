@@ -1,7 +1,8 @@
 body { 
-background-color: #0000FF; 
+background-color: purple; 
 }
 
 h1, p {
-	color: #FFFFFF;
+	color: white;
+	font-style: italic; 
 }
