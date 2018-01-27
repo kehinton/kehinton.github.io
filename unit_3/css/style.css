@@ -1,8 +1,14 @@
 body {
-	background-color: blue;
+	background: url(hands under faucet.jpg);
+	background-size: cover;
 }
 
 h1 {
 	text-align: center;
 	font-family: Helvetica, sans-serif;
+}
+
+p {
+	text-align: center;
+	font-family: Helvetica, sans-serif; 
 }
