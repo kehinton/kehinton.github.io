@@ -17,5 +17,7 @@ p {
 	font-family: Helvetica, sans-serif; 
 }
 
-img {align-content: center;
+.bg {
+  width: 100%;
+  z-index: 0;
 }
