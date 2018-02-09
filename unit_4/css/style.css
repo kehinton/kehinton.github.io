@@ -1,5 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
-@import url('https://fonts.googleapis.com/css?family=Raleway:900');
 
 body {
 	background color: white;
@@ -14,12 +14,12 @@ h1 {
 }
 
 h2 {
-	font-family: Oswald, sans-serif;
+	font-family: Raleway, sans-serif;
 	font-size: 40px;
 }
 
 p {
-	font-family: Raleway, sans-serif; 
+	font-family: Roboto, sans-serif; 
 }
 
 .bg {
