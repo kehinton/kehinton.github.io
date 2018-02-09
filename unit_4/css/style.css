@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Raleway');
+
+body {
+	background color: white;
+}
+
+h1 {
+	font-family: Oswald, sans-serif;
+	font-size: 60px;
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	font-size: 40px;
+}
+
+p {
+	font-family: Raleway, sans-serif; 
+}
+
+.bg {
+  width: 100%;
+  z-index: 0;
+}
