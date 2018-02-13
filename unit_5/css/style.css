@@ -30,6 +30,12 @@ nav {
 	padding: 20px;
 }
 
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 #EP {
 	background-color: #FFE2B8;
 	border: 1px black solid;
@@ -38,12 +44,6 @@ nav {
 
 #donors {
 	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article {
-	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
 }
