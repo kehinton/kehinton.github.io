@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+	background color: white;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#letter {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#stories {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#EP {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#donors {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-family: Oswald, sans-serif;
+	font-size: 60px;
+	line-height: 1.5em;
+	font-weight: bold;
+
+}
+
+h2 {
+	font-family: Oswald, sans-serif;
+	font-size: 40px;
+}
+
+p {
+	font-family: Roboto, sans-serif; 
+}
+
+.bg {
+  width: 100%;
+  z-index: 0;
+}
