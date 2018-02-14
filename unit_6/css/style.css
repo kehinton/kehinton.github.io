@@ -10,8 +10,10 @@
 
 
 body {
-	background color: white;
+    background-image: url("bubbles.jpg");
+    background-repeat: no-repeat;
 }
+
 
 #footer {
 	text-align: center; 
