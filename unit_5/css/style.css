@@ -2,6 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+
 body {
 	background color: white;
 }
@@ -9,49 +16,54 @@ body {
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 0px;
 }
 
 nav {
 	background-color: #E8C66A;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 0px;
 }
 
 #letter {
 	background-color: #FFE2B8;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 0px;
 }
 
 #stories {
 	background-color: #FFE2B8;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 0px;
 }
 
 article {
 	background-color: #E89C6C;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 0px;
 }
 
 #EP {
 	background-color: #FFE2B8;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 0px;
 }
 
 #donors {
 	background-color: #FFE2B8;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 0px;
 }
 
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 0px;
+}
+
+#letter {
+	text-align: center; 
+	font-style: italic;
 }
 
 h1 {
