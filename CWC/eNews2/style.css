@@ -17,3 +17,15 @@
             /* force container columns to (horizontal) blocks */
             table[class="container"] { width:100%!important; }
         }
+
+header {
+    style="background-color: #fff; 
+    width: 600px; 
+    height: 60px; 
+    margin: auto;
+}
+
+#logo {
+        float: left; 
+        margin-bottom: 5px;
+}
