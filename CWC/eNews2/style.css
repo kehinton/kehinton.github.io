@@ -1,0 +1,19 @@
+   /* Resets:see reset.css for details */
+        body{background-color:#ffffff;-webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
+        body{color:#333333;font-family:Helvetica Neue,Helvetica,Arial,Calibri,sans-serif;margin:0;padding:0;}
+        table{border-spacing:0;border-collapse:collapse;border-spacing:0;}
+        table td{border-collapse:collapse;}
+        p{margin-bottom:1em;}
+        img{max-width:100%;}
+
+        /* Give content more room on mobile */
+        @media screen and (max-width:480px) {
+            div[class="body-content"]img { width:100%; }
+        }
+
+        /* Styles for forcing columns to rows */
+        @media screen and (max-width:600px) {
+
+            /* force container columns to (horizontal) blocks */
+            table[class="container"] { width:100%!important; }
+        }
