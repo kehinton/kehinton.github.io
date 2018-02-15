@@ -36,3 +36,30 @@ header {
     margin-right: 29px; 
     padding-top: 8px;
 }
+
+#hero {
+    position: relative; 
+    width: 600px; 
+    top: 0px; 
+    padding: 0px; 
+    margin: auto;
+}
+
+#content {
+    position: relative; 
+    width: 480px; 
+    background-color: #fff; 
+    border-top-left-radius: 1em; 
+    border-top-right-radius: 1em; 
+    top: -5px; 
+    font-family: Helvetica; 
+    margin: auto; 
+    padding: 10px 30px 30px 30px;
+}
+
+#date {
+    color: #148cd6; 
+    margin: 10px; 
+    float: right; 
+    font-size: 15px;
+}
