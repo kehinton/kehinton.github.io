@@ -20,12 +20,6 @@ img {
 	width: 400px;
 }
 
-
-footer {
-	text-align: center; 
-	font-style: italic;
-}
-
 h1 {
 	font-family: Oswald, sans-serif;
 	font-size: 60px;
@@ -46,4 +40,9 @@ p {
 .bg {
   width: 100%;
   z-index: 0;
+}
+
+footer {
+	text-align: center; 
+	font-style: italic;
 }
