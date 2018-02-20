@@ -2,6 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:
+	border-box;
+
+}
+
 body {
     background-image: url("https://farm5.staticflickr.com/4566/24854966758_fa5322819c_o.jpg");
     background-repeat: no-repeat;
