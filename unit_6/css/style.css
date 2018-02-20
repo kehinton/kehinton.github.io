@@ -1,51 +1,89 @@
-<link> url('https://fonts.googleapis.com/css?family=Oswald'); </link>
-<link> url('https://fonts.googleapis.com/css?family=Roboto'); </link>
-<link> url('https://fonts.googleapis.com/css?family=Raleway'); </link>
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
-/*
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
 }
-*/
+
 
 body {
-	background-color: #fff;
-	/* Background Image
-    background-image: url("https://farm5.staticflickr.com/4566/24854966758_fa5322819c_o.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: contain; */
+	background color: white;
 }
 
-img {
-	width: 400px;
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 0px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 0px;
+}
+
+#letter {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 0px;
+}
+
+#stories {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 0px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 0px;
+}
+
+#EP {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 0px;
+}
+
+#donors {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 0px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 0px;
+}
+
+#footer {
+	text-align: center; 
+	font-style: italic;
 }
 
 h1 {
 	font-family: Oswald, sans-serif;
 	font-size: 60px;
-	line-height: 2em;
+	line-height: 1.5em;
 	font-weight: bold;
+
 }
 
 h2 {
 	font-family: Oswald, sans-serif;
-	font-size: 1.5em;
+	font-size: 40px;
 }
 
 p {
-	font-size: 18px;
 	font-family: Roboto, sans-serif; 
 }
 
 .bg {
   width: 100%;
   z-index: 0;
-}
-
-footer {
-	text-align: center; 
-	font-style: italic;
 }
