@@ -8,6 +8,13 @@
 	box-sizing:border-box;
 }
 
+#title {
+	background-image: url("images/mediaevent.jpg");
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 100%;
+}
+
 
 body {
 	background color: white;
@@ -36,7 +43,10 @@ p {
 	font-family: Roboto, sans-serif; 
 }
 
+/*old header image
 .bg {
   width: 100%;
   z-index: 0;
 }
+<img class="bg" src="images/mediaevent.jpg" alt="Residents at capitol for SB 623 media event" title="SB 623 Media Event">
+*/
