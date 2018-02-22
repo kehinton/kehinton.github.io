@@ -13,6 +13,11 @@
 	background-repeat: no-repeat;
 	height: 300px;
 	width: 100%;
+	font-family: Oswald, sans-serif;
+	font-size: 60px;
+	line-height: 1.5em;
+	font-weight: 800px;
+
 }
 
 
@@ -26,13 +31,6 @@ body {
 	font-style: italic;
 }
 
-h1 {
-	font-family: Oswald, sans-serif;
-	font-size: 60px;
-	line-height: 1.5em;
-	font-weight: 800px;
-
-}
 
 h2 {
 	font-family: Oswald, sans-serif;
