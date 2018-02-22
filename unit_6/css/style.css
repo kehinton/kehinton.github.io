@@ -9,14 +9,17 @@
 }
 
 #title {
+	/*background image for head
 	background-image: url("https://farm5.staticflickr.com/4660/25554938617_e9f8fa58ef_o.jpg");
 	background-repeat: no-repeat;
+	*/
 	height: 300px;
 	width: 100%;
 	font-family: Oswald, sans-serif;
 	font-size: 60px;
 	line-height: 1.5em;
 	font-weight: 800px;
+	background-color: #4d8ecc;
 
 }
 
