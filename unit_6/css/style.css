@@ -8,6 +8,11 @@
 	box-sizing:border-box;
 }
 
+#wrapper {
+	padding: 20px;
+	margin: 20px;
+}
+
 #title {
 	/*background image for head
 	background-image: url("https://farm5.staticflickr.com/4660/25554938617_e9f8fa58ef_o.jpg");
