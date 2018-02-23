@@ -70,16 +70,6 @@ a:hover {
 }
 
 #letter {
-	clear: both;
-}
-
-.lettertext {
-	float: left;
-	display: block;
-}
-
-
-.letterimage {
 	float: left;
 	display: block;
 }
