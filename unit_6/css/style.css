@@ -8,6 +8,10 @@
 	box-sizing:border-box;
 }
 
+.images {
+	height: 200px;
+}
+
 #wrapper {
 	padding: 5px;
 	margin: 5px;
