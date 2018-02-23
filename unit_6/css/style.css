@@ -54,9 +54,16 @@ a:hover {
 	background-color: #35a9fe;
 }
 
-#letter {
+section {
 	clear: both;
+}
+
+.letter {
 	float: left;
+}
+
+.letter_picture {
+	float: right;
 }
 
 #footer {
