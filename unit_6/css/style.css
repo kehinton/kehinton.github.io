@@ -36,8 +36,8 @@ nav a {
   	float: left;
   	display: block;
   	font-family: Roboto, sans-serif; 
-	font-size: 1.5em;
-	padding: 10px;
+	font-size: 1em;
+	padding: 20px 30px;
 }
 
 .clearfix:after {
