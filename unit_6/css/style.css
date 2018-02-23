@@ -69,12 +69,8 @@ a:hover {
 	background-color: #35a9fe;
 }
 
-#letter {
-	margin: 0px 0px 20px 0px;
-}
-
 .lettertext {
-	float: right;
+	float: left;
 	display: block;
 }
 
