@@ -61,11 +61,13 @@ a:hover {
 
 #lettertext {
 	float: left;
+	display: block;
 }
 
 
 #letterimage {
-	float: right;
+	float: left;
+	display: block;
 }
 
 #footer {
