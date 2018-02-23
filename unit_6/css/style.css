@@ -50,8 +50,9 @@ nav a {
   	display: block;
   	font-family: Roboto, sans-serif; 
 	font-size: 1em;
-	padding: 20px 30px;
+	padding: 15px 30px;
 	margin: 0px;
+	text-align: center;
 }
 
 .clearfix:after {
