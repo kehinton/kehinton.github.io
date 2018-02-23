@@ -40,7 +40,6 @@ nav {
 	clear: both;
 	background-color: #6cb800;
 	width: 100%;
-	text-align: center;
 }
 
 nav a {
@@ -52,7 +51,7 @@ nav a {
   	font-family: Roboto, sans-serif; 
 	font-size: 1em;
 	padding: 15px 30px;
-	margin: 0px;
+	margin: 0px 25%;
 	text-align: center;
 	text-transform: uppercase;
 }
