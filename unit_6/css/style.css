@@ -28,6 +28,7 @@ nav {
 	height: 2em; 
 	background-color: #6cb800;
 	width: 100%;
+	padding: 20px;
 }
 
 nav a {
@@ -54,15 +55,16 @@ a:hover {
 	background-color: #35a9fe;
 }
 
-section {
+#letter {
 	clear: both;
 }
 
-.letter {
+#lettertext {
 	float: left;
 }
 
-.letter_picture {
+
+#letterimage {
 	float: right;
 }
 
