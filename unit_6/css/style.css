@@ -8,7 +8,7 @@
 	box-sizing:border-box;
 }
 
-.title {
+#title {
 	/*background image for head
 	background-image: url("https://farm5.staticflickr.com/4660/25554938617_e9f8fa58ef_o.jpg");
 	background-repeat: no-repeat;
@@ -50,12 +50,12 @@ a:hover {
 	background-color: #35a9fe;
 }
 
-.letter {
+#letter {
 	clear: both;
 	float: left;
 }
 
-.footer {
+#footer {
 	text-align: center; 
 	font-style: italic;
 }
