@@ -9,13 +9,13 @@
 }
 
 .images_left {
-	height: 300px;
+	height: 400px;
 	float: left;
 	padding: 0 1em;
 }
 
 .images_right {
-	height: 300px;
+	height: 400px;
 	float: right;
 	padding: 0 1em;
 }
