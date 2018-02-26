@@ -108,13 +108,15 @@ p {
 }
 
 .action {
-	width: 33%;
+	width: 20%;
 	float: left;
+	padding: 2%;
 }
 
 .social {
-	width: 11%;
+	height: 50px;
 	float: left;
+	padding: 2%;
 }
 
 /*old header image
