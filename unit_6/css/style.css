@@ -69,9 +69,12 @@ a:hover {
 	background-color: #35a9fe;
 }
 
+.lettertext {
+	float: left;
+}
+
 .letterimage {
 	float: right;
-	display: inline-block;
 }
 
 .stories {
