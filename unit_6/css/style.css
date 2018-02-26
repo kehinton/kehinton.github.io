@@ -109,6 +109,14 @@ p {
 
 }
 
+#EP {
+	clear:both;
+}
+
+#donors {
+	clear: both;
+}
+
 #getinvolved {
 	width: 100%;
 	background-color: #fff;
@@ -132,7 +140,7 @@ p {
 }
 
 #stories {
-	margin: 5%;
+	background-color: #35a9fe;
 }
 
 /*old header image
