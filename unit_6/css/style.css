@@ -105,6 +105,9 @@ p {
 	width: 100%;
 	background-color: #fff;
 	float: left;
+}
+
+a {
 	text-decoration: none;
 }
 
