@@ -141,6 +141,8 @@ p {
 
 #stories {
 	background-color: #35a9fe;
+	margin: 0;
+	padding: 0;
 }
 
 /*old header image
