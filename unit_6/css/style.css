@@ -79,6 +79,10 @@ a:hover {
 	float: right;
 }
 
+article {
+	clear:both;
+}
+
 .stories {
 	clear: both;
 }
