@@ -86,6 +86,8 @@ a:hover {
 #footer {
 	text-align: center; 
 	font-style: italic;
+	background-color: #35a9fe;
+	padding: 10%;
 }
 
 
