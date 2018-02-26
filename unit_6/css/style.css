@@ -21,8 +21,8 @@
 }
 
 #wrapper {
-	padding: 1%;
-	margin: 2%;
+	padding: 2em;
+	margin: 2em;
 }
 
 #title {
@@ -99,6 +99,7 @@ h2 {
 	font-family: Oswald, sans-serif;
 	font-size: 2em;
 	text-align: center;
+	padding: 0.5em 1em;
 }
 
 p {
