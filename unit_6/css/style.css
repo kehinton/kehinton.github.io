@@ -69,14 +69,10 @@ a:hover {
 	background-color: #35a9fe;
 }
 
-.lettertext {
+#letter {
+	clear: both;
 	float: left;
-	display: block;
-}
-
-.letterimage {
-	float: left;
-	display: block;
+	display: inline-block;
 }
 
 .stories {
