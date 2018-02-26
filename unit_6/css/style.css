@@ -8,9 +8,15 @@
 	box-sizing:border-box;
 }
 
-.images {
+.images_left {
 	height: 300px;
 	float: left;
+	padding: 1em;
+}
+
+.images_right {
+	height: 300px;
+	float: right;
 	padding: 1em;
 }
 
@@ -100,6 +106,7 @@ footer {
 h2 {
 	font-family: Oswald, sans-serif;
 	font-size: 2em;
+	text-align: center;
 }
 
 p {
