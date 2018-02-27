@@ -143,6 +143,12 @@ p {
 	padding: 3em 1em;
 }
 
+/*Text when you hover over image*/
+.container {
+  position: relative;
+  width: 50%;
+}
+
 .overlay {
   position: absolute;
   top: 0;
@@ -170,10 +176,13 @@ p {
   text-align: center;
 }
 
-/*old header image
-.bg {
-  width: 100%;
-  z-index: 0;
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
 }
-<img class="bg" src="images/mediaevent.jpg" alt="Residents at capitol for SB 623 media event" title="SB 623 Media Event">
-*/
