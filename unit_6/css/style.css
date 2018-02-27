@@ -79,6 +79,7 @@ article {
 #letter {
 	margin: 2em;
 	padding: .5em;
+	clear:both;
 }
 
 .stories {
