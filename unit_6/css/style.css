@@ -104,7 +104,7 @@ h2 {
 
 p {
 	font-family: Roboto, sans-serif; 
-	font-size: 1.5em;
+	font-size: 1em;
 	line-height: 1.5em;
 
 }
@@ -143,6 +143,10 @@ p {
 	background-color: #35a9fe;
 	margin: 0;
 	padding: 1em 6em;
+}
+
+.stories {
+	padding: 2em 0;
 }
 
 /*old header image
