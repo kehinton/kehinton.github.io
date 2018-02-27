@@ -102,8 +102,6 @@ p {
 	font-family: Roboto, sans-serif; 
 	font-size: 1em;
 	line-height: 1.5em;
-	text-align: justify;
-
 }
 
 #EP {
@@ -140,7 +138,7 @@ p {
 }
 
 .stories {
-	padding: 2em 1em;
+	padding: 3em 1em;
 }
 
 /*old header image
