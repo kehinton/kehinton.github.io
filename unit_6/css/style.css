@@ -121,10 +121,7 @@ p {
 	width: 100%;
 	background-color: #fff;
 	float: left;
-}
-
-.getinvolved {
-	margin: 0 23%;
+	align-content: center;
 }
 
 .action {
