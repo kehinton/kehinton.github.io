@@ -9,14 +9,14 @@
 }
 
 .images_left {
-	width: 50%
+	width: 50%;
 	height: auto;
 	float: left;
 	padding: 0 1em;
 }
 
 .images_right {
-	width: 50%
+	width: 50%;
 	height: auto;
 	float: right;
 	padding: 0 1em;
