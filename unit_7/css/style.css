@@ -121,6 +121,10 @@ p {
 	text-align: center;
 }
 
+.getinvolved {
+	padding: 0 5% 0 28%;
+}
+
 .action {
 	width: 20%;
 	float: left;
