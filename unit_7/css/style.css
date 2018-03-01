@@ -8,6 +8,13 @@
 	box-sizing:border-box;
 }
 
+.logo {
+	width: 20%;
+	float: right;
+	height: auto;
+	padding: 0 1em;
+}
+
 .images_left {
 	width: 50%;
 	height: auto;
