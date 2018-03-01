@@ -70,7 +70,7 @@ nav a {
 	text-transform: uppercase;
 }
 
-.clearfix:after, article:after {
+.clearfix:after, {
 	visibility: hidden; 
 	display:block;
 	content: " ";
@@ -114,7 +114,7 @@ p {
 	line-height: 1.5em;
 }
 
-article {
+.storybox {
 	max-width: 1049px;
 	margin: auto;
 	background: #fff;
