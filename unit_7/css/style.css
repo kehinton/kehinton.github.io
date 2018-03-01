@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.images_left {
+	width: 50%;
+	height: auto;
+	float: left;
+	padding: 0 1em;
+}
+
+.images_right {
+	width: 50%;
+	height: auto;
+	float: right;
+	padding: 0 1em;
+}
+
+#title {
+	/*background image for head
+	background-image: url("https://farm5.staticflickr.com/4660/25554938617_e9f8fa58ef_o.jpg");
+	background-repeat: no-repeat;
+	*/
+	width: 100%;
+	background-color: #35a9fe;
+
+}
+
+.title {
+	font-family: Oswald, sans-serif;
+	font-size: 5em;
+	line-height: 1.5em;
+	font-weight: bold;
+	padding: 20px;
+	color: white;
+}
+
+nav {
+	clear: both;
+	background-color: #6cb800;
+	width: 100%;
+	text-align: center;
+}
+
+nav a {
+	background-color: #6cb800;
+  	color: white;
+  	text-decoration: none;
+  	float: left;
+  	display: block;
+  	font-family: Roboto, sans-serif; 
+	font-size: 1em;
+	padding: 15px 30px;
+	margin: 0px 20px;
+	text-transform: uppercase;
+}
+
+.clearfix:after {
+	visibility: hidden; 
+	display:block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+a:hover {
+	background-color: #35a9fe;
+}
+
+article {
+	clear:both;
+}
+
+#letter {
+	margin: 2em;
+	padding: .5em;
+}
+
+footer {
+	text-align: center; 
+	font-style: italic;
+	background-color: #35a9fe;
+	padding: 10px;
+	color: white;
+	clear: both;
+}
+
+
+h2 {
+	font-family: Oswald, sans-serif;
+	font-size: 2em;
+	text-align: center;
+	padding: 0.5em;
+}
+
+p {
+	font-family: Roboto, sans-serif; 
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+#EP {
+	clear:both;
+}
+
+#donors {
+	clear: both;
+}
+
+#getinvolved {
+	width: 100%;
+	background-color: #fff;
+	float: left;
+	text-align: center;
+}
+
+.action {
+	width: 20%;
+	float: left;
+	padding: 0.5em 1em;
+}
+
+.social {
+	height: 50px;
+	float: left;
+	padding: 0.5em 1em;
+}
+
+#stories {
+	background-color: #35a9fe;
+	margin: 0;
+	padding: 1em 6em;
+}
+
+.stories {
+	padding: 3em 1em;
+}
