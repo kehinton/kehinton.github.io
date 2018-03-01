@@ -9,7 +9,7 @@
 }
 
 .logo {
-	width: 10em;
+	width: 150px;
 	float: right;
 	height: auto;
 	padding: 0 1em;
@@ -36,8 +36,6 @@
 	*/
 	width: 100%;
 	background-color: #35a9fe;
-	height: ;
-
 }
 
 .title {
@@ -70,7 +68,7 @@ nav a {
 	text-transform: uppercase;
 }
 
-.clearfix:after {
+.clearfix:after, article:after {
 	visibility: hidden; 
 	display:block;
 	content: " ";
@@ -83,13 +81,9 @@ a:hover {
 	background-color: #35a9fe;
 }
 
-article {
-	clear:both;
-}
-
 #letter {
-	margin: 2em;
-	padding: .5em;
+	margin: auto;
+	max-width: 1049px;
 }
 
 footer {
@@ -98,7 +92,6 @@ footer {
 	background-color: #35a9fe;
 	padding: 10px;
 	color: white;
-	clear: both;
 }
 
 
@@ -115,12 +108,19 @@ p {
 	line-height: 1.5em;
 }
 
+article {
+	max-width: 1049px;
+	margin: auto;
+}
+
 #EP {
-	clear:both;
+	margin: auto;
+	max-width: 1049px;
 }
 
 #donors {
-	clear: both;
+	margin: auto;
+	max-width: 1049px;
 }
 
 #getinvolved {
