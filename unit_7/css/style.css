@@ -15,9 +15,6 @@
 	padding: 0 1em;
 }
 
-#wrapper {
-	margin: 2% 0;
-}
 
 .images_left {
 	width: 50%;
@@ -69,7 +66,7 @@ nav a {
 	text-transform: uppercase;
 }
 
-.clearfix:after, {
+.clearfix:after, .article:after {
 	visibility: hidden; 
 	display:block;
 	content: " ";
@@ -93,6 +90,7 @@ footer {
 	background-color: #35a9fe;
 	padding: 10px;
 	color: white;
+	clear:both;
 }
 
 
@@ -123,11 +121,13 @@ p {
 #EP {
 	margin: auto;
 	max-width: 1049px;
+	clear:both;
 }
 
 #donors {
 	margin: auto;
 	max-width: 1049px;
+	clear:both;
 }
 
 #getinvolved {
@@ -135,6 +135,7 @@ p {
 	background-color: #fff;
 	float: left;
 	text-align: center;
+	clear:both;
 }
 
 .getinvolved {
