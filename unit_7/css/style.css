@@ -150,7 +150,11 @@ p {
 	padding: 1em 6em;
 }
 
-p.stories {
+.stories {
 	padding: 3em 1em;
 	background: white;
+}
+
+.storyimage {
+	background: none;
 }
