@@ -23,14 +23,12 @@
 	width: 50%;
 	height: auto;
 	float: left;
-	padding: 0 1em;
 }
 
 .images_right {
 	width: 50%;
 	height: auto;
 	float: right;
-	padding: 0 1em;
 }
 
 #title {
@@ -120,6 +118,7 @@ article {
 	max-width: 1049px;
 	margin: auto;
 	background: #fff;
+	height: 400px;
 }
 
 #EP {
