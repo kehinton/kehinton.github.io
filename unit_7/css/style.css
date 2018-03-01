@@ -102,6 +102,10 @@ h2 {
 	padding: 0.5em;
 }
 
+h2.story {
+	background: #35a9fe;
+}
+
 p {
 	font-family: Roboto, sans-serif; 
 	font-size: 16px;
@@ -111,6 +115,7 @@ p {
 article {
 	max-width: 1049px;
 	margin: auto;
+	background: #fff;
 }
 
 #EP {
@@ -152,11 +157,13 @@ article {
 	padding: 1em 6em;
 }
 
-.stories {
-	padding: 3em 1em;
-	background: white;
+.stories_right {
+	float: right;
+	width: 50%;
+	border: 0 1%;
 }
 
-.storyimage {
-	background: none;
+.stories_left {
+	float: left;
+	width: 50%;
 }
