@@ -103,11 +103,12 @@ h2 {
 	font-family: Oswald, sans-serif;
 	font-size: 2em;
 	text-align: center;
-	padding: 0.5em;
+	padding: 1em;
 }
 
 .h2story {
 	background: #35a9fe;
+	margin: 2%;
 }
 
 p {
@@ -118,7 +119,6 @@ p {
 
 article {
 	clear:both;
-	margin: 2% auto; 
 }
 
 .storybox {
