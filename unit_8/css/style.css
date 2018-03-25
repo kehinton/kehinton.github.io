@@ -215,18 +215,22 @@ article {
 @media only screen and (max-width: 568px) { 
 .images_left {
 	float: none;
+	width: 98%;
 }
 
 .images_right {
 	float: none;
+	width: 98%;
 }
 
 .story_left {
 	float: none;
+	width: 98%;
 }
 
 .story_right {
 	float: none;
+	width: 98%;
 }
 
 #getinvolved {
