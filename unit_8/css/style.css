@@ -190,7 +190,7 @@ article {
 }
 
 @media only screen and (max-width: 871px) { 
-  nav {
+  nav a {
     float: none;
   }
 
