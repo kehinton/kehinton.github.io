@@ -188,18 +188,11 @@ article {
 	height: auto;
 }
 
-@media only screen and (max-width: 871px) { 
-  nav a {
-    float: none;
-    margin: 0;
-    padding: 1% 2%;
-  }
-
-  .title {
-  	font-size: 3em;
+@media only screen and (max-width: 1187px) { 
+  .logo {
+    display: none;
   }
 }
-
 
 @media only screen and (max-width: 871px) { 
   nav a {
