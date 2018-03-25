@@ -17,7 +17,7 @@
 
 
 .images_left {
-	width: 50%;
+	width: 48%;
 	height: auto;
 	float: left;
 	padding: 1%;
@@ -101,14 +101,25 @@ footer {
 
 h2 {
 	font-family: Oswald, sans-serif;
-	font-size: 2em;
+	font-size: 40px;
 	text-align: center;
-	padding: 1em;
+	padding: 1%;
 }
 
 .h2story {
 	background: #35a9fe;
 	margin: 2%;
+}
+
+.story {
+	font-family: Roboto, sans-serif; 
+	font-size: 16px;
+	line-height: 1.5em;
+	width: 50%;
+	height: auto;
+	float: right;
+	padding: 1%;
+	margin: 8% 0 8% 0;
 }
 
 p {
@@ -169,4 +180,3 @@ article {
 	margin: 0;
 	padding: 1em 6em;
 	width: 50%;
-
