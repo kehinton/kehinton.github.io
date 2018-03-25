@@ -204,4 +204,33 @@ article {
   .title {
   	font-size: 3em;
   }
+
+  .action {
+	width: 30%;
+	float: left;
+	padding: 2% 4%;
+	}
 }
+
+@media only screen and (max-width: 568px) { 
+.images_left {
+	float: none;
+}
+
+.images_right {
+	float: none;
+}
+
+.story_left {
+	float: none;
+}
+
+.story_right {
+	float: none;
+}
+
+#getinvolved {
+	float: none;
+	}
+}
+
