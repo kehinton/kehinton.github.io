@@ -12,7 +12,7 @@
 	width: 200px;
 	float: right;
 	height: auto;
-	margin: 55px 0 0 0; 
+	 margin: 55px 0 0 0; 
 }
 
 
@@ -168,15 +168,5 @@ article {
 	background-color: #35a9fe;
 	margin: 0;
 	padding: 1em 6em;
-}
-
-.stories_right {
-	float: right;
 	width: 50%;
-	border: 0 1%;
-}
 
-.stories_left {
-	float: left;
-	width: 50%;
-}
