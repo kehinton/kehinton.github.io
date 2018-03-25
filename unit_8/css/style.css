@@ -132,13 +132,6 @@ article {
 	clear:both;
 }
 
-.storybox {
-	max-width: 1049px;
-	margin: auto;
-	background: #fff;
-	height: 400px;
-}
-
 #EP {
 	margin: auto;
 	max-width: 1049px;
@@ -178,5 +171,5 @@ article {
 #stories {
 	background-color: #35a9fe;
 	margin: 0;
-	padding: 1em 6em;
-	width: 50%;
+	max-width: 1049px;
+	height: auto;
