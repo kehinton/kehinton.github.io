@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.logo {
+	width: 200px;
+	float: right;
+	height: auto;
+	margin: 55px 0 0 0; 
+}
+
+
+.images_left {
+	width: 50%;
+	height: auto;
+	float: left;
+	padding: 1%;
+	margin: 1%;
+}
+
+.images_right {
+	width: 50%;
+	height: auto;
+	float: right;
+	padding: 1%;
+	margin: 1%;
+}
+
+#title {
+	/*background image for head
+	background-image: url("https://farm5.staticflickr.com/4660/25554938617_e9f8fa58ef_o.jpg");
+	background-repeat: no-repeat;
+	*/
+	width: 100%;
+	background-color: #35a9fe;
+}
+
+.title {
+	font-family: Oswald, sans-serif;
+	font-size: 80px;
+	line-height: 1.5em;
+	font-weight: bold;
+	padding: 20px;
+	color: white;
+	float: left;
+}
+
+nav {
+	clear: both;
+	background-color: #6cb800;
+	width: 100%;
+	text-align: center;
+}
+
+nav a {
+	background-color: #6cb800;
+  	color: white;
+  	text-decoration: none;
+  	float: left;
+  	display: block;
+  	font-family: Roboto, sans-serif; 
+	font-size: 1em;
+	padding: 15px 30px;
+	margin: 0px 20px;
+	text-transform: uppercase;
+}
+
+.clearfix:after, .article:after {
+	visibility: hidden; 
+	display:block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+a:hover {
+	background-color: #35a9fe;
+}
+
+#letter {
+	margin: 2% auto;
+	max-width: 1049px;
+}
+
+footer {
+	text-align: center; 
+	font-style: italic;
+	background-color: #35a9fe;
+	padding: 10px;
+	color: white;
+	clear:both;
+}
+
+
+h2 {
+	font-family: Oswald, sans-serif;
+	font-size: 2em;
+	text-align: center;
+	padding: 1em;
+}
+
+.h2story {
+	background: #35a9fe;
+	margin: 2%;
+}
+
+p {
+	font-family: Roboto, sans-serif; 
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+article {
+	clear:both;
+}
+
+.storybox {
+	max-width: 1049px;
+	margin: auto;
+	background: #fff;
+	height: 400px;
+}
+
+#EP {
+	margin: auto;
+	max-width: 1049px;
+	clear:both;
+}
+
+#donors {
+	margin: auto;
+	max-width: 1049px;
+	clear:both;
+}
+
+#getinvolved {
+	width: 100%;
+	background-color: #fff;
+	float: left;
+	text-align: center;
+	clear:both;
+}
+
+.getinvolved {
+	padding: 0 5% 0 28%;
+}
+
+.action {
+	width: 20%;
+	float: left;
+	padding: 0.5em 1em;
+}
+
+.social {
+	height: 50px;
+	float: left;
+	padding: 0.5em 1em;
+}
+
+#stories {
+	background-color: #35a9fe;
+	margin: 0;
+	padding: 1em 6em;
+}
+
+.stories_right {
+	float: right;
+	width: 50%;
+	border: 0 1%;
+}
+
+.stories_left {
+	float: left;
+	width: 50%;
+}
