@@ -111,13 +111,24 @@ h2 {
 	margin: 2%;
 }
 
-.story {
+.story_right {
 	font-family: Roboto, sans-serif; 
 	font-size: 16px;
 	line-height: 1.5em;
 	width: 50%;
 	height: auto;
 	float: right;
+	padding: 1%;
+	margin: 8% 0 8% 0;
+}
+
+.left {
+	font-family: Roboto, sans-serif; 
+	font-size: 16px;
+	line-height: 1.5em;
+	width: 50%;
+	height: auto;
+	float: left;
 	padding: 1%;
 	margin: 8% 0 8% 0;
 }
