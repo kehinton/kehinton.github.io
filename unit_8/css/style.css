@@ -8,6 +8,10 @@
 	box-sizing:border-box;
 }
 
+body {
+	font-size: 16px;
+}
+
 .logo {
 	width: 200px;
 	float: right;
@@ -30,13 +34,6 @@
 	float: right;
 	padding: 1%;
 	margin: 1%;
-}
-
-p {
-	font-family: Roboto, sans-serif; 
-	font-size: 16px;
-	line-height: 1.5em;
-	padding: 0 2%;
 }
 
 #title {
@@ -85,6 +82,13 @@ nav a {
 
 a:hover {
 	background-color: #35a9fe;
+}
+
+p {
+	font-family: Roboto, sans-serif; 
+	font-size: 1em;
+	line-height: 1.5em;
+	padding: 0 2%;
 }
 
 #letter {
