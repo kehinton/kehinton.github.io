@@ -193,4 +193,8 @@ article {
   nav {
     float: none;
   }
+
+  .title {
+  	font-size: 3em;
+  }
 }
