@@ -144,18 +144,21 @@ article {
 }
 
 #EP {
-	margin: auto;
+	margin: 5% 0;
 	max-width: 1049px;
 	clear:both;
+	margin: 5% 0;
 }
 
 #donors {
-	margin: auto;
+	margin: 5% 0;
 	max-width: 1049px;
 	clear:both;
+	margin: 5% 0;
 }
 
 #getinvolved {
+	margin: 5% 0;
 	width: 100%;
 	background-color: #fff;
 	float: left;
