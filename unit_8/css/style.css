@@ -232,5 +232,9 @@ article {
 #getinvolved {
 	float: none;
 	}
+
+.action {
+	display: none;
+	}
 }
 
