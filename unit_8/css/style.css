@@ -165,10 +165,6 @@ article {
 	clear:both;
 }
 
-.getinvolved {
-	padding: 0 5% 0 28%;
-}
-
 .action {
 	width: 20%;
 	float: left;
@@ -176,9 +172,9 @@ article {
 }
 
 .social {
-	height: 50px;
+	height: 70px;
 	float: left;
-	padding: 0.5em 1em;
+	padding: 3%;
 }
 
 #stories {
