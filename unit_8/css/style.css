@@ -66,7 +66,7 @@ nav a {
   	display: block;
   	font-family: Roboto, sans-serif; 
 	font-size: 1em;
-	padding: 1% 2%;
+	padding: 1.5em;
 	text-transform: uppercase;
 }
 
@@ -192,7 +192,6 @@ article {
   nav a {
     float: none;
     margin: 0;
-    padding: 1% 2%;
   }
 
   .title {
