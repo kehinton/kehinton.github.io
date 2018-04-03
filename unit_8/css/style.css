@@ -87,19 +87,18 @@ p {
 	font-family: Roboto, sans-serif; 
 	font-size: 1em;
 	line-height: 1.5em;
-	padding: 0 2%;
 }
 
 #letter {
-	margin: 2% auto;
-	max-width: 1049px;
+	margin: 3em;
+	max-width: 1440px;
 }
 
 footer {
 	text-align: center; 
 	font-style: italic;
 	background-color: #35a9fe;
-	padding: 1%;
+	padding: 1em;
 	color: white;
 	clear:both;
 }
@@ -109,12 +108,10 @@ h2 {
 	font-family: Oswald, sans-serif;
 	font-size: 2em;
 	text-align: center;
-	padding: 1%;
 }
 
 .h2story {
 	background: #35a9fe;
-	margin: 2%;
 }
 
 .story_right {
@@ -124,8 +121,7 @@ h2 {
 	width: 50%;
 	height: auto;
 	float: right;
-	padding: 1%;
-	margin: 8% 0;
+	padding: 1em;
 }
 
 .story_left {
@@ -135,34 +131,30 @@ h2 {
 	width: 50%;
 	height: auto;
 	float: left;
-	padding: 1%;
-	margin: 8% 0;
+	padding: 1em;
 }
 
 article {
 	clear:both;
-	margin: 2%;
 }
 
 #EP {
-	margin: 5% 0;
 	clear:both;
-	margin: 5% 0;
+	padding: 2em;
 }
 
 #donors {
-	margin: 5% 0;
 	clear:both;
-	margin: 5% 0;
+	padding: 2em;
 }
 
 #getinvolved {
-	margin: 5% 0;
 	width: 100%;
 	background-color: #fff;
 	float: left;
 	text-align: center;
 	clear:both;
+	padding: 2em;
 }
 
 .action {
@@ -198,8 +190,7 @@ article {
   	font-size: 3em;
   }
 
-@media only screen and (max-width: 568px) { 
-.images_left {
+  .images_left {
 	float: none;
 	width: 98%;
 }
@@ -218,6 +209,8 @@ article {
 	float: none;
 	width: 98%;
 }
+
+@media only screen and (max-width: 568px) { 
 
 #getinvolved {
 	float: none;
