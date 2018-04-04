@@ -24,16 +24,14 @@ body {
 	width: 48%;
 	height: auto;
 	float: left;
-	padding: 1%;
-	margin: 1%;
+	padding: 1em;
 }
 
 .images_right {
 	width: 48%;
 	height: auto;
 	float: right;
-	padding: 1%;
-	margin: 1%;
+	padding: 1em;
 }
 
 #title {
